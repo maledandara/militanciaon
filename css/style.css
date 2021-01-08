@@ -1,0 +1,58 @@
+.navbar{
+    background-color: green;
+    font-weight: 800;
+    text-decoration-color: yellow;
+    }
+
+.margin {
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+.container-fluid{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+#Apresentação{
+    background-color: yellow;
+    font-weight: bold;
+
+}
+
+#Quemsomos{
+    text-size-adjust:auto;
+    background-color: red; 
+    font-weight: bold;  
+}
+#Aospais{
+    font-weight: bold;
+    text-size-adjust: auto;
+    background-color: black;
+    color: blanchedalmond;
+}
+#Aosprofessores{
+    background-color: green;
+    font-weight: bold;
+    text-size-adjust: auto;
+}
+#Militância{
+    background-color: yellow;
+    font-weight: bold;
+    text-size-adjust: auto;
+    font-size: 18pt;
+}
+#Sala{
+    background-color: red;
+    font-weight: bold;
+    text-size-adjust: auto;
+    font-size: 18pt;
+}
+#Faleconosco{
+    background-color: black;
+    color: blanchedalmond;
+    font-weight: bold;
+    text-size-adjust: auto;
+    font-size: 18pt;
+}
+
+}
