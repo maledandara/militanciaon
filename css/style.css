@@ -1,8 +1,8 @@
 .navbar{
-    background-color: green;
-    font-weight: 800;
-    text-decoration-color: yellow;
-    }
+    background-color:black;
+    font-size: 17pt;
+    font-optical-sizing: auto;
+}
 
 .margin {
     padding-top: 100px;
@@ -16,7 +16,6 @@
 #Apresentação{
     background-color: yellow;
     font-weight: bold;
-
 }
 
 #Quemsomos{
@@ -54,5 +53,7 @@
     text-size-adjust: auto;
     font-size: 18pt;
 }
-
+footer{
+    background-color: yellow;
+    font-weight: bolder;
 }
