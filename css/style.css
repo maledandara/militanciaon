@@ -19,13 +19,13 @@ p{
 }
 
 #Apresentação{
-    background-color: yellow;
+    background-color: lightyellow;
     font-weight: bold;
 }
 
 #Quemsomos{
     text-size-adjust:auto;
-    background-color: red; 
+    background-color: lightred; 
     font-weight: bold;  
 }
 #Aospais{
@@ -35,17 +35,17 @@ p{
     color: blanchedalmond;
 }
 #Aosprofessores{
-    background-color: green;
+    background-color: lightgreen;
     font-weight: bold;
     text-size-adjust: auto;
 }
 #Militância{
-    background-color: yellow;
+    background-color: lightyellow;
     font-weight: bold;
     text-align: left;
    }
 #Sala{
-    background-color: red;
+    background-color: lightred;
     font-weight: bold;
     text-size-adjust: auto;
 }
@@ -56,7 +56,7 @@ p{
     text-size-adjust: auto;
 }
 footer{
-    background-color: yellow;
+    background-color: lightyellow;
     font-weight: bolder;
 }
 .autoplay{
