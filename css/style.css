@@ -19,13 +19,13 @@ p{
 }
 
 #Apresentação{
-    background-color: lightyellow;
+    background-color: yellow;
     font-weight: bold;
 }
 
 #Quemsomos{
     text-size-adjust:auto;
-    background-color: crimson; 
+    background-color: lightgreen; 
     font-weight: bold;  
 }
 #Aospais{
@@ -40,12 +40,12 @@ p{
     text-size-adjust: auto;
 }
 #Militância{
-    background-color: lightyellow;
+    background-color: yellow;
     font-weight: bold;
     text-align: left;
    }
 #Sala{
-    background-color: crimson;
+    background-color: red;
     font-weight: bold;
     text-size-adjust: auto;
 }
@@ -56,7 +56,7 @@ p{
     text-size-adjust: auto;
 }
 footer{
-    background-color: lightyellow;
+    background-color: yellow;
     font-weight: bolder;
 }
 .autoplay{
